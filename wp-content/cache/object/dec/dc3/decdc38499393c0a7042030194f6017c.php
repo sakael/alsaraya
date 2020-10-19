@@ -1,0 +1,1 @@
+#ÚJ\<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":4:{s:12:"last_checked";i:1548409199;s:7:"checked";a:2:{s:17:"Avada-Child-Theme";s:5:"1.0.0";s:5:"Avada";s:5:"4.0.3";}s:8:"response";a:0:{}s:12:"translations";a:0:{}}}

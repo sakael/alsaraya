@@ -1,0 +1,1 @@
+"ÚJ\<?php exit; ?>a:1:{s:7:"content";s:71:"a:2:{s:17:"Avada-Child-Theme";s:7:"/themes";s:5:"Avada";s:7:"/themes";}";}

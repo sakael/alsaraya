@@ -1,0 +1,1 @@
+"ÚJ\<?php exit; ?>a:1:{s:7:"content";s:125:"a:4:{s:4:"type";s:7:"success";s:5:"email";s:19:"s.akael@hotmail.com";s:7:"version";s:5:"4.6.6";s:9:"timestamp";i:1494974314;}";}

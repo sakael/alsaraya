@@ -1,0 +1,649 @@
+
+<!DOCTYPE html>
+<html class="" lang="nl" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# og: http://ogp.me/ns#">
+<head><link rel="stylesheet" type="text/css" href="http://alsaraya.nl/wp-content/cache/minify/53080.css" media="all" />
+
+
+
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	
+	<!--[if lte IE 8]>
+	<script type="text/javascript" src="http://alsaraya.nl/wp-content/themes/Avada/assets/js/html5shiv.js"></script>
+	<![endif]-->
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Menukaart - Al Saraya Restaurant</title>
+<script>
+  	jvcf7_loading_url= "http://alsaraya.nl/wp-content/plugins/contact-form-7/images/ajax-loader.gif";
+    jvcf7_invalid_field_design = "theme_1";
+	jvcf7_show_label_error = "noErrorMsg";
+  	</script>						<script>
+							/* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+							if ( typeof WebFontConfig === "undefined" ) {
+								WebFontConfig = new Object();
+							}
+							WebFontConfig['google'] = {families: ['Unica+One:400', 'Vollkorn:400&subset=latin']};
+
+							(function() {
+								var wf = document.createElement( 'script' );
+								wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+								wf.type = 'text/javascript';
+								wf.async = 'true';
+								var s = document.getElementsByTagName( 'script' )[0];
+								s.parentNode.insertBefore( wf, s );
+							})();
+						</script>
+						
+<!-- This site is optimized with the Yoast SEO plugin v6.3.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://alsaraya.nl/menukaart/" />
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Menukaart - Al Saraya Restaurant" />
+<meta property="og:url" content="http://alsaraya.nl/menukaart/" />
+<meta property="og:site_name" content="Al Saraya Restaurant" />
+<meta property="article:publisher" content="https://www.facebook.com/AlSarayaRestaurantEnschede/" />
+<meta property="og:image" content="http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-300x53.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Menukaart - Al Saraya Restaurant" />
+<meta name="twitter:image" content="http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-300x53.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/alsaraya.nl\/","name":"Al Saraya Restaurant","potentialAction":{"@type":"SearchAction","target":"http:\/\/alsaraya.nl\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Al Saraya Restaurant &raquo; Feed" href="http://alsaraya.nl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Al Saraya Restaurant &raquo; Reactiesfeed" href="http://alsaraya.nl/comments/feed/" />
+			<!-- For iPad Retina display -->
+			<link rel="apple-touch-icon-precomposed" sizes="144x144" href="">
+		<link rel="alternate" type="application/rss+xml" title="Al Saraya Restaurant &raquo; Menukaart Reactiesfeed" href="http://alsaraya.nl/menukaart/feed/" />
+
+		<meta property="og:title" content="Menukaart"/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="http://alsaraya.nl/menukaart/"/>
+		<meta property="og:site_name" content="Al Saraya Restaurant"/>
+		<meta property="og:description" content="Salades   
+Fatoush € 6,00
+Verse groenten, gefrituurd brood, dressing.  
+Tabboule € 6,50
+Peterselie, tomaat, uien, burgul, citroen, olijfolie.  
+Jarjier € 6,00
+Rucola, ui, tomaat, olijven, champignon, dressing.    
+Koude Mezze   
+Baba Ghanouj € 4,00
+Gegrilde aubergine, knoflook, verse groenten.  
+Moutabal € 4,00
+Gegrilde aubergine, knoflook, verse groenten."/>
+
+									<meta property="og:image" content="http://alsaraya.nl/wp-content/uploads/2016/08/Logo-Saraya-m.png"/>
+					<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.3 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_track_user = true;
+	var disableStr = 'ga-disable-UA-67920062-3';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-67920062-3', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you\'re not being tracked. ");
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+		})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/alsaraya.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=b4768919c992f041b9f6a6a009d4792c"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+
+
+
+
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='avada-shortcodes-css'  href='http://alsaraya.nl/wp-content/themes/Avada/shortcodes.css?ver=1.0.0' type='text/css' media='all' />
+<![endif]-->
+
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='avada-IE-fontawesome-css'  href='http://alsaraya.nl/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=1.0.0' type='text/css' media='all' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='avada-IE8-css'  href='http://alsaraya.nl/wp-content/themes/Avada/assets/css/ie8.css?ver=1.0.0' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE]>
+<link rel='stylesheet' id='avada-IE-css'  href='http://alsaraya.nl/wp-content/themes/Avada/assets/css/ie.css?ver=1.0.0' type='text/css' media='all' />
+<![endif]-->
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/alsaraya.nl","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://alsaraya.nl/wp-content/cache/minify/3e3f6.js"></script>
+
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"5.6.6"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://alsaraya.nl/wp-content/cache/minify/007d5.js"></script>
+
+
+<link rel='https://api.w.org/' href='http://alsaraya.nl/wp-json/' />
+
+<link rel='shortlink' href='http://alsaraya.nl/?p=11' />
+<link rel="alternate" type="application/json+oembed" href="http://alsaraya.nl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Falsaraya.nl%2Fmenukaart%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://alsaraya.nl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Falsaraya.nl%2Fmenukaart%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<!--[if IE 9]> <script>var _fusionParallaxIE9 = true;</script> <![endif]-->
+	
+	<!--[if lte IE 8]>
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+	var imgs, i, w;
+	var imgs = document.getElementsByTagName( 'img' );
+	for( i = 0; i < imgs.length; i++ ) {
+		w = imgs[i].getAttribute( 'width' );
+		imgs[i].removeAttribute( 'width' );
+		imgs[i].removeAttribute( 'height' );
+	}
+	});
+	</script>
+
+	<script src="http://alsaraya.nl/wp-content/themes/Avada/assets/js/excanvas.js"></script>
+
+	<![endif]-->
+
+	<!--[if lte IE 9]>
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+
+	// Combine inline styles for body tag
+	jQuery('body').each( function() {
+		var combined_styles = '<style type="text/css">';
+
+		jQuery( this ).find( 'style' ).each( function() {
+			combined_styles += jQuery(this).html();
+			jQuery(this).remove();
+		});
+
+		combined_styles += '</style>';
+
+		jQuery( this ).prepend( combined_styles );
+	});
+	});
+	</script>
+
+	<![endif]-->
+
+	<script type="text/javascript">
+		var doc = document.documentElement;
+		doc.setAttribute('data-useragent', navigator.userAgent);
+	</script>
+
+	
+	</head>
+<body class="page-template page-template-100-width page-template-100-width-php page page-id-11 fusion-body no-tablet-sticky-header no-mobile-sticky-header mobile-logo-pos-center layout-wide-mode side-header side-header-left menu-text-align-center mobile-menu-design-modern fusion-image-hovers fusion-show-pagination-text">
+				<div id="wrapper" class="">
+		<div id="home" style="position:relative;top:1px;"></div>
+				
+							
+<div id="side-header-sticky"></div>
+<div id="side-header" class="clearfix fusion-mobile-menu-design-modern fusion-sticky-logo-1 fusion-mobile-logo-1 fusion-sticky-menu-">
+	<div class="side-header-wrapper">
+						<div class="side-header-content fusion-logo-center fusion-mobile-logo-1">
+			<div class="fusion-logo" data-margin-top="65px" data-margin-bottom="65px" data-margin-left="0px" data-margin-right="0px">
+				<a class="fusion-logo-link" href="http://alsaraya.nl">
+						<img src="//alsaraya.nl/wp-content/uploads/2016/08/Logo-Saraya-m.png" width="800" height="463" alt="Al Saraya Restaurant" class="fusion-logo-1x fusion-standard-logo" />
+
+							<img src="//alsaraya.nl/wp-content/uploads/2016/08/Logo-Saraya-m.png" width="800" height="463" alt="Al Saraya Restaurant" class="fusion-standard-logo fusion-logo-2x" />
+			
+			<!-- mobile logo -->
+			
+			<!-- sticky header logo -->
+					</a>
+		</div>
+		</div>
+		<div class="fusion-main-menu-container fusion-logo-menu-center">
+			<div class="fusion-main-menu"><ul id="menu-main-menu" class="fusion-menu"><li  id="menu-item-812"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-812"  ><a  href="http://alsaraya.nl/"><span class="menu-text">HOME</span></a></li><li  id="menu-item-1031"  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-1031"  ><a  href="http://alsaraya.nl/menukaart/"><span class="menu-text">Menukaart</span></a></li><li  id="menu-item-819"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-819"  ><a  href="http://alsaraya.nl/kom-langs/"><span class="menu-text">Kom langs</span></a></li><li  id="menu-item-818"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818"  ><a  href="http://alsaraya.nl/contact/"><span class="menu-text">CONTACT</span></a></li></ul></div>			<div class="fusion-mobile-menu-icons">
+							<a href="#" class="fusion-icon fusion-icon-bars"></a>
+		
+		
+			</div>
+
+
+<div class="fusion-mobile-nav-holder"></div>
+
+		</div>
+
+		
+								
+			<div class="side-header-content side-header-content-1-2">
+													<div class="side-header-content-2 fusion-clearfix"><div class="fusion-social-links-header"><div class="fusion-social-networks boxed-icons"><div class="fusion-social-networks-wrapper"><a  class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" style="color:#5d646b;background-color:#3b4045;border-color:#3b4045;border-radius:50%;" href="https://www.facebook.com/AlSarayaRestaurantEnschede/" target="_blank" data-placement="bottom" data-title="Facebook" data-toggle="tooltip" title="Facebook"><span class="screen-reader-text">Facebook</span></a><a  class="fusion-social-network-icon fusion-tooltip fusion-mail fusion-icon-mail" style="color:#5d646b;background-color:#3b4045;border-color:#3b4045;border-radius:50%;" href="mailto:al&#115;ar&#097;&#121;&#097;&#064;a&#108;&#115;&#097;&#114;&#097;&#121;a&#046;n&#108;" target="_self" data-placement="bottom" data-title="Email" data-toggle="tooltip" title="Email"><span class="screen-reader-text">Email</span></a></div></div></div></div>
+							</div>
+		
+		
+			</div>
+	<div class="side-header-background"></div>
+	<div class="side-header-border"></div>
+</div>
+		
+		<div id="sliders-container">
+			
+			
+				
+				<div class="fusion-slider-container fusion-slider-11  full-width-slider-container" style="height:600px;max-width:100%;">
+					<style type="text/css" scoped="scoped">
+					.fusion-slider-11 .flex-direction-nav a {
+						width:63px;height:63px;line-height:63px;margin-top:-31.5px;font-size:25px;					}
+					</style>
+					<div class="fusion-slider-loading">FAQ items aan het laden...</div>
+					<div class="tfs-slider flexslider main-flex full-width-slider" style="max-width:100%;" data-slider_width="100%" data-slider_height="600px" data-full_screen="0" data-parallax="1" data-nav_arrows="0" data-pagination_circles="0" data-autoplay="0" data-loop="0" data-animation="fade" data-slideshow_speed="7000" data-animation_speed="600" data-slider_content_width="850px" data-typo_sensitivity="1" data-typo_factor="1.5" data-nav_box_width="63px" data-nav_box_height="63px" data-nav_arrow_size="25px" >
+						<ul class="slides" style="max-width:100%;">
+																							<li data-mute="yes" data-loop="yes" data-autoplay="yes">
+									<div class="slide-content-container slide-content-center" style="display: none;">
+										<div class="slide-content" style="max-width:850px">
+																							<div class="heading ">
+													<div class="fusion-title-sc-wrapper" style="">
+														<div class="fusion-title title fusion-sep-none fusion-title-center fusion-title-size-two" style="margin-top:0px;margin-bottom:0px;"><h2 class="title-heading-center" style="color:#ffffff;font-size:72px;line-height:86.4px;">Alsaraya</h2></div>													</div>
+												</div>
+																																		<div class="caption ">
+													<div class="fusion-title-sc-wrapper" style="">
+														<div class="fusion-title title fusion-sep-none fusion-title-center fusion-title-size-three" style="margin-top:0px;margin-bottom:0px;"><h3 class="title-heading-center" style="color:#fff;font-size:36px;line-height:43.2px;"> het huis der arabische specialiteiten</h3></div>													</div>
+												</div>
+																																		<div class="buttons" >
+																																						</div>
+																					</div>
+									</div>
+																																				<div class="background background-image" style="background-image: url(http://alsaraya.nl/wp-content/uploads/2016/07/799.jpg);max-width:100%;height:600px;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://alsaraya.nl/wp-content/uploads/2016/07/799.jpg', sizingMethod='scale');-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://alsaraya.nl/wp-content/uploads/2016/07/799.jpg', sizingMethod='scale')';" data-imgwidth="1950">
+																																																												</div>
+								</li>
+													</ul>
+					</div>
+				</div>
+								</div>
+				
+							
+		
+		
+						<div id="main" class="clearfix width-100" style="padding-left:40px;padding-right:40px">
+			<div class="fusion-row" style="max-width:100%;"><div id="content" class="full-width">
+			<div id="post-11" class="post-11 page type-page status-publish hentry">
+			
+			<span class="entry-title" style="display: none;">
+			Menukaart		</span>
+	
+			<span class="vcard" style="display: none;">
+			<span class="fn">
+				<a href="http://alsaraya.nl/author/alsaraya/" title="Berichten van alsaraya" rel="author">alsaraya</a>			</span>
+		</span>
+	
+			<span class="updated" style="display:none;">
+			2018-04-08T18:11:28+00:00		</span>
+	
+						<div class="post-content">
+				<div class="fusion-fullwidth fullwidth-box fusion-fullwidth-1  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:rgba(255,255,255,0);"><style type="text/css" scoped="scoped">.fusion-fullwidth-1, .fusion-fullwidth-1.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h2 style="text-align: left;">Salades</h2>
+<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single hrleft" style="border-color:#ae895d;border-top-width:1px;margin-top:-5px;margin-bottom:0px;width:100%;max-width:170px;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Fatoush € 6,00</h3>
+<h4>Verse groenten, gefrituurd brood, dressing.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Tabboule € 6,50</h3>
+<h4>Peterselie, tomaat, uien, burgul, citroen, olijfolie.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Jarjier € 6,00</h3>
+<h4>Rucola, ui, tomaat, olijven, champignon, dressing.</h4>
+<div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://alsaraya.nl/wp-content/uploads/2015/02/salades-1.jpg) left top no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://alsaraya.nl/wp-content/uploads/2015/02/salades-1.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-2  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:#2b3136;"><style type="text/css" scoped="scoped">.fusion-fullwidth-2, .fusion-fullwidth-2.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h2 style="text-align: left;">Koude Mezze</h2>
+<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single hrleft" style="border-color:#ae895d;border-top-width:1px;margin-top:-5px;margin-bottom:0px;width:100%;max-width:170px;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Baba Ghanouj € 4,00</h3>
+<h4>Gegrilde aubergine, knoflook, verse groenten.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Moutabal € 4,00</h3>
+<h4>Gegrilde aubergine, knoflook, verse groenten.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Labneh € 4,00</h3>
+<h4>Uitgelekte yoghurt, olijfolie.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Tarator € 5,00</h3>
+<h4>Kipfilet, sesampasta, knoflook, citroensap.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Muhammara € 5,00</h3>
+<h4>Pikante paprika puree, granaatappel dressing, walnoten.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Hommus € 4,00</h3>
+<h4>Fijn gemalen kikkererwten, knoflook, citroensap, sesampasta.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Kebbeh Nayeh € 8,00</h3>
+<h4>Runder TarTaar, burghul, ui, peterselie.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Keshkeh € 4,00</h3>
+<h4>Yoghurt, fijngesneden groente, burghul, knoflook.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Zeytoun mtabbal €4,00</h3>
+<h4>Gemarineerde olijven.</h4>
+<div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://alsaraya.nl/wp-content/uploads/2015/02/koude-mezze-2.jpg) left top no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://alsaraya.nl/wp-content/uploads/2015/02/koude-mezze-2.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-3  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:rgba(255,255,255,0);"><style type="text/css" scoped="scoped">.fusion-fullwidth-3, .fusion-fullwidth-3.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h2 style="text-align: left;">Warme Mezze</h2>
+<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single hrleft" style="border-color:#ae895d;border-top-width:1px;margin-top:-5px;margin-bottom:0px;width:100%;max-width:170px;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Kebbeh Trabulsye € 6,00</h3>
+<h4>Een pastei van burghul met een vulling van gehakt, ui, pijnboompitten. (4 stuks)</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Falafel € 5,00</h3>
+<h4>Gefrituurde gemalen kikkererwten, kruiden.(6 stuks)</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Sambousak € 5,00</h3>
+<h4>Filodeeg gevuld met fetakaas, kruiden. (4 stuks)</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Hommus B’lahme € 8,00</h3>
+<h4>Hommus met warm gebakken draadjes vlees (Rundvlees).</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Yabrak € 5,00</h3>
+<h4>Druiven bladeren gevuld met rijst, gehakt.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Khalieh € 8,00</h3>
+<h4>Huisgemaakte draadjes vlees (Rundvlees).</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Jawaneh  Mttaffaye € 5,00</h3>
+<h4>Gemarineerde gegrilde kippenvleugels.(5 stuks)</h4>
+<div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://alsaraya.nl/wp-content/uploads/2015/02/warme-mezze-1.jpg) center center no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://alsaraya.nl/wp-content/uploads/2015/02/warme-mezze-1.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-4  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:#2b3136;"><style type="text/css" scoped="scoped">.fusion-fullwidth-4, .fusion-fullwidth-4.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h2 style="text-align: left;">Vis Gerechten</h2>
+<h4 style="text-align: left; font-size: 23px; color: #fff;">Wordt geserveerd met vers gebakken spinazie met uien en paprika</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Salamon € 16,00</h3>
+<h4>Zalm.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Kredes € 16,00</h3>
+<h4>Gamba’s. (5 stuks)</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Kaarus € 16,00</h3>
+<h4>Zeebaars.</h4>
+<div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://alsaraya.nl/wp-content/uploads/2015/02/vis-gerechten.jpg) left top no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://alsaraya.nl/wp-content/uploads/2015/02/vis-gerechten.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-5  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:rgba(255,255,255,0);"><style type="text/css" scoped="scoped">.fusion-fullwidth-5, .fusion-fullwidth-5.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h2 style="text-align: left;">Grill Gerechten</h2>
+<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single hrleft" style="border-color:#ae895d;border-top-width:1px;margin-top:-5px;margin-bottom:0px;width:100%;max-width:170px;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Kebab € 13,00</h3>
+<h4>Gekruid gehakt aan de spies.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Sis Tavuk € 13,00</h3>
+<h4>Kipfilet aan de spies op traditionele wijze gemarineerd.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Shikaf € 16,00</h3>
+<h4>Gegrild ossenhaas aan de spies.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Rijash Kharuf € 18,50</h3>
+<h4>Op traditionele wijze gemarineerde lams rek. (4 stuks)</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Mshawi mix € 17,50</h3>
+<h4>Kebab, Sis Tavuk, Shikaf.</h4>
+<div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://alsaraya.nl/wp-content/uploads/2015/02/grill-gerechten.jpg) left top no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://alsaraya.nl/wp-content/uploads/2015/02/grill-gerechten.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-6  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:#2b3136;"><style type="text/css" scoped="scoped">.fusion-fullwidth-6, .fusion-fullwidth-6.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h2 style="text-align: left;">Vegetarische Hoofdgerechten</h2>
+<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single hrleft" style="border-color:#ae895d;border-top-width:1px;margin-top:-5px;margin-bottom:0px;width:100%;max-width:170px;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Vegetarsiche Maklube € 13,00</h3>
+<h4>Rijst, aubergine, tomaat.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Sbanekh € 13,00</h3>
+<h4>Verse spinazie, verse gebakken groenten, ei.</h4>
+<div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://alsaraya.nl/wp-content/uploads/2015/02/vegetarische-hoofdgerechten.jpg) left top no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://alsaraya.nl/wp-content/uploads/2015/02/vegetarische-hoofdgerechten.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-7  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:rgba(255,255,255,0);"><style type="text/css" scoped="scoped">.fusion-fullwidth-7, .fusion-fullwidth-7.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h2 style="text-align: left;">Hoofdgerechten</h2>
+<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single hrleft" style="border-color:#ae895d;border-top-width:1px;margin-top:-5px;margin-bottom:0px;width:100%;max-width:170px;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Maldum € 15,00</h3>
+<h4>Aubergine, gehakt, tomaat, peterselie.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Maklube € 15,00</h3>
+<h4>Rijst, aubergine, tomaat, shekif.</h4>
+<div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://alsaraya.nl/wp-content/uploads/2015/02/hoofdgerechten.jpg) left top no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://alsaraya.nl/wp-content/uploads/2015/02/hoofdgerechten.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-8  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:#2b3136;"><style type="text/css" scoped="scoped">.fusion-fullwidth-8, .fusion-fullwidth-8.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h2 style="text-align: left;">Dessert</h2>
+<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single hrleft" style="border-color:#ae895d;border-top-width:1px;margin-top:-5px;margin-bottom:0px;width:100%;max-width:170px;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Rz B&#8217;halib € 4,00</h3>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Harise € 5,00</h3>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Baklawa € 5,00</h3>
+<div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://alsaraya.nl/wp-content/uploads/2015/02/dessert.jpg) left top no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://alsaraya.nl/wp-content/uploads/2015/02/dessert.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-9  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:rgba(255,255,255,0);"><style type="text/css" scoped="scoped">.fusion-fullwidth-9, .fusion-fullwidth-9.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h2 style="text-align: left;">Menu’s</h2>
+<h4 style="text-align: left; font-size: 23px; color: #fff;">Te bestellen vanaf 2 personen, prijs p.p.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Mezze Malula € 13,00 p. p.</h3>
+<h4>Voorgerecht: 1 salade, 6 koude mezze&#8217;s , 2 warme mezze’s.<br />
+Nagerecht: Dessert van de kok.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Mezze Sednaya € 35,00 p. p.</h3>
+<h4>Voorgerecht: 3 salade, 10 koude mezze&#8217;s , 4 warme mezze’s.<br />
+Hoofdgerecht: Mini Hoofdgercht<br />
+Nagerecht: Mini dessert.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Alsaraya Menu € 47,00 p. p.</h3>
+<h4>Voorgerecht: 3 salade, 8 koude mezze&#8217;s , 4 warme mezze’s.<br />
+Hoofdgerecht: 2 sootren vlees, 1 vis gerecht.<br />
+Nagerecht: 3 soorten desserts.</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Alsham Menu € 33,00 p. p.</h3>
+<h4>Voorgerecht: 2 salade, 6 koude mezze&#8217;s , 3 warme mezze’’s.<br />
+Hoofdgerecht: Mshawi<br />
+Nagerecht: Dessert van de kok,</h4>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ae895d;margin-left: auto;margin-right: auto;margin-top:30px;"></div><h3>Aljazira  Menu € 23,00 p. p.</h3>
+<h4>Voorgerecht: : 1 salades, 4 koude mezze&#8217;s , 2 warme mezze’s.<br />
+Hoofdgerecht: Kebab, Sis tavuk<br />
+Nagerecht: Dessert van de kok.</h4>
+<div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://alsaraya.nl/wp-content/uploads/2015/02/2F9A43FB-18D1-4A29-9886-47CFD28D74FE.jpg) left top no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://alsaraya.nl/wp-content/uploads/2015/02/2F9A43FB-18D1-4A29-9886-47CFD28D74FE.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-10  fusion-parallax-fixed nonhundred-percent-fullwidth" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:175px;padding-top:195px;padding-left:5%;padding-right:5%;padding-left:5% !important;padding-right:5% !important;background-attachment:fixed;background-color:rgba(255,255,255,0);background-position:center center;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;-ms-filter: &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src=&#039;http://alsaraya.nl/wp-content/uploads/2015/02/CC59FEAA-FDF6-4E7B-9AC8-AA4824BAEEFB.jpg&#039;, sizingMethod=&#039;scale&#039;)&quot;;background-image: url(http://alsaraya.nl/wp-content/uploads/2015/02/CC59FEAA-FDF6-4E7B-9AC8-AA4824BAEEFB.jpg);"><style type="text/css" scoped="scoped">.fusion-fullwidth-10 {
+                            padding-left: 5% !important;
+                            padding-right: 5% !important;
+                        }</style><div class="fusion-row"><h2 style="text-align: center; color: #dcc36f; display: none;">RESERVATIONS</h2>
+<p style="display: none; text-align: center; color: #dcc36f;"><span style="font-family: 'Unica One', Arial, Helvetica, sans-serif !important; text-transform: uppercase; font-size: 32px; line-height: 48px; color: #dcc36f;">We&#8217;re not trying to be cool but sadly there are only 68 seats in each cafe and they fill up quickly. If you want in, make a reservation today<span style="color: #ae895d !important;">.</span></span></p>
+</div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-11  fusion-parallax-none hundred-percent-fullwidth fusion-nonzero-padding" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:55px;padding-left:5.4%;padding-right:5.4%;background-color:rgba(255,255,255,0);"><style type="text/css" scoped="scoped">.fusion-fullwidth-11, .fusion-fullwidth-11.fusion-section-separator {
+                        padding-left: 5.4% !important;
+                        padding-right: 5.4% !important;
+                    }@media only screen and (max-width: 1170px) {.fusion-fullwidth-11, .fusion-fullwidth-11.fusion-section-separator {
+                                margin-left: -5.4% !important;
+                                margin-right: -5.4% !important;
+                            }}</style><div class="fusion-row"><p><img class="aligncenter size-medium wp-image-855" src="http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-300x53.png" alt="Logo-Saraya-Intertext" width="300" height="53" srcset="http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-200x35.png 200w, http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-300x53.png 300w, http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-400x70.png 400w, http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-600x105.png 600w, http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-768x135.png 768w, http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-800x140.png 800w, http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-1024x180.png 1024w, http://alsaraya.nl/wp-content/uploads/2015/02/Logo-Saraya-Intertext-1200x211.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single" style="border-color:#45494e;border-top-width:1px;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:40px;"></div><div class="fusion-one-third fusion-layout-column fusion-spacing-yes" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper"><div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-columns-total-1 fusion-content-boxes-1 content-boxes-icon-on-top row content-left" data-animationOffset="100%" style="margin-top:0px;margin-bottom:0px;"><style type="text/css" scoped="scoped">.fusion-content-boxes-1 .heading h2{color:#ffffff;}
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading h2,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading h2,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:after,
+			.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:before,
+			.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .icon .circle-no {
+				color: #c0996b !important;
+			}
+			.fusion-content-boxes-1 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes {
+				background-color: #c0996b !important;
+				border-color: #c0996b !important;
+			}</style><div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12 fusion-content-box-hover content-box-column-last content-box-column-last-in-row"><div class="col content-wrapper-background link-area-link-icon icon-hover-animation-fade" style="background-color:#313539;"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width:21pxpx;line-height:normal;color:#ae895d;font-size:21px;" class="fa fontawesome-icon fa-envelope-o circle-no"></i></div><h2 class="content-box-heading" style="font-size: 18px;line-height:23px;">EMAIL</h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#747474;">alsaraya@alsaraya.nl</div></div></div><div class="fusion-clearfix"></div><div class="fusion-clearfix"></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-one-third fusion-layout-column fusion-spacing-yes" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper"><div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-columns-total-1 fusion-content-boxes-2 content-boxes-icon-on-top row content-left" data-animationOffset="100%" style="margin-top:0px;margin-bottom:0px;"><style type="text/css" scoped="scoped">.fusion-content-boxes-2 .heading h2{color:#ffffff;}
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .heading h2,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .heading h2,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-2 .fusion-content-box-hover .fusion-read-more:hover:after,
+			.fusion-content-boxes-2 .fusion-content-box-hover .fusion-read-more:hover:before,
+			.fusion-content-boxes-2 .fusion-content-box-hover .fusion-read-more:hover,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .icon .circle-no {
+				color: #c0996b !important;
+			}
+			.fusion-content-boxes-2 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes {
+				background-color: #c0996b !important;
+				border-color: #c0996b !important;
+			}</style><div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12 fusion-content-box-hover content-box-column-last content-box-column-last-in-row"><div class="col content-wrapper-background link-area-link-icon icon-hover-animation-fade" style="background-color:#313539;"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width:21pxpx;line-height:normal;color:#ae895d;font-size:21px;" class="fa fontawesome-icon fa-comments circle-no"></i></div><h2 class="content-box-heading" style="font-size: 18px;line-height:23px;">Telefoon</h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#747474;">06 47770335</p>
+</div></div></div><div class="fusion-clearfix"></div><div class="fusion-clearfix"></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-yes" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper"><div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-columns-total-1 fusion-content-boxes-3 content-boxes-icon-on-top row content-left" data-animationOffset="100%" style="margin-top:0px;margin-bottom:0px;"><style type="text/css" scoped="scoped">.fusion-content-boxes-3 .heading h2{color:#ffffff;}
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .heading h2,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .heading h2,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-3 .fusion-content-box-hover .fusion-read-more:hover:after,
+			.fusion-content-boxes-3 .fusion-content-box-hover .fusion-read-more:hover:before,
+			.fusion-content-boxes-3 .fusion-content-box-hover .fusion-read-more:hover,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .icon .circle-no {
+				color: #c0996b !important;
+			}
+			.fusion-content-boxes-3 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes {
+				background-color: #c0996b !important;
+				border-color: #c0996b !important;
+			}</style><div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12 fusion-content-box-hover content-box-column-last content-box-column-last-in-row"><div class="col content-wrapper-background link-area-link-icon icon-hover-animation-fade" style="background-color:#313539;"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width:21pxpx;line-height:normal;color:#ae895d;font-size:21px;" class="fa fontawesome-icon fa-thumb-tack circle-no"></i></div><h2 class="content-box-heading" style="font-size: 18px;line-height:23px;">vind ons</h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#747474;">Kuipersdijk 65, Enschede</div></div></div><div class="fusion-clearfix"></div><div class="fusion-clearfix"></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single" style="border-color:#45494e;border-top-width:1px;margin-left: auto;margin-right: auto;margin-top:10px;margin-bottom:55px;"></div></div></div>
+							</div>
+												</div>
+	</div>
+									</div>  <!-- fusion-row -->
+			</div>  <!-- #main -->
+			
+			
+			
+			
+										
+				<div class="fusion-footer">
+
+										
+																
+						<footer id="footer" class="fusion-footer-copyright-area">
+							<div class="fusion-row">
+								<div class="fusion-copyright-content">
+
+											<div class="fusion-copyright-notice">
+			<div>© Copyright  <script>document.write(new Date().getFullYear());</script>   |   alsaraya.nl by <a href='http://grossmedia.net' target='_blank'>grossmedia.net</a>   |   All Rights Reserved </div>
+		</div>
+					<div class="fusion-social-links-footer">
+				<div class="fusion-social-networks boxed-icons"><div class="fusion-social-networks-wrapper"><a  class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" style="color:#5d646b;background-color:#3b4045;border-color:#3b4045;border-radius:50%;" href="https://www.facebook.com/AlSarayaRestaurantEnschede/" target="_blank" data-placement="top" data-title="Facebook" data-toggle="tooltip" title="Facebook"><span class="screen-reader-text">Facebook</span></a><a  class="fusion-social-network-icon fusion-tooltip fusion-mail fusion-icon-mail" style="color:#5d646b;background-color:#3b4045;border-color:#3b4045;border-radius:50%;" href="mailto:&#097;l&#115;&#097;&#114;&#097;ya&#064;a&#108;s&#097;&#114;&#097;ya.&#110;&#108;" target="_self" data-placement="top" data-title="Email" data-toggle="tooltip" title="Email"><span class="screen-reader-text">Email</span></a></div></div>			</div>
+		
+								</div> <!-- fusion-fusion-copyright-content -->
+							</div> <!-- fusion-row -->
+						</footer> <!-- #footer -->
+									</div> <!-- fusion-footer -->
+					</div> <!-- wrapper -->
+
+				
+		<a class="fusion-one-page-text-link fusion-page-load-link"></a>
+
+		<!-- W3TC-include-js-head -->
+
+		<script type="text/javascript" src="http://alsaraya.nl/wp-content/cache/minify/0c617.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/alsaraya.nl\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Graag verifi\u00ebren dat je geen robot bent."}}};
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="http://alsaraya.nl/wp-content/cache/minify/cc96a.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var toTopscreenReaderText = {"label":"Go to Top"};
+var js_local_vars = {"admin_ajax":"http:\/\/alsaraya.nl\/wp-admin\/admin-ajax.php","admin_ajax_nonce":"ff03805c55","protocol":"","theme_url":"http:\/\/alsaraya.nl\/wp-content\/themes\/Avada","dropdown_goto":"Ga naar...","mobile_nav_cart":"Winkelwagen","page_smoothHeight":"false","flex_smoothHeight":"false","language_flag":"en","infinite_blog_finished_msg":"<em>Einde van de berichten<\/em>","infinite_finished_msg":"<em>Einde van de berichten<\/em>","infinite_blog_text":"<em>Bezig met het ophalen van berichten...<\/em>","portfolio_loading_text":"<em>Portfolio-items aan het laden...<\/em>","faqs_loading_text":"<em>FAQ-items aan het laden...<\/em>","order_actions":"Details","avada_rev_styles":"0","avada_styles_dropdowns":"1","blog_grid_column_spacing":"40","blog_pagination_type":"Pagination","carousel_speed":"2500","counter_box_speed":"1000","content_break_point":"800","disable_mobile_animate_css":"0","disable_mobile_image_hovers":"1","portfolio_pagination_type":"Pagination","form_bg_color":"#2e3135","header_transparency":"0","header_padding_bottom":"0px","header_padding_top":"0px","header_position":"Left","header_sticky":"0","header_sticky_tablet":"0","header_sticky_mobile":"0","header_sticky_type2_layout":"menu_only","sticky_header_shrinkage":"1","is_responsive":"1","is_ssl":"false","isotope_type":"masonry","layout_mode":"wide","lightbox_animation_speed":"Fast","lightbox_arrows":"1","lightbox_autoplay":"0","lightbox_behavior":"all","lightbox_desc":"1","lightbox_deeplinking":"1","lightbox_gallery":"1","lightbox_opacity":"0.875","lightbox_path":"vertical","lightbox_post_images":"1","lightbox_skin":"metro-black","lightbox_slideshow_speed":"5000","lightbox_social":"1","lightbox_title":"1","lightbox_video_height":"720","lightbox_video_width":"1280","logo_alignment":"Center","logo_margin_bottom":"65px","logo_margin_top":"65px","megamenu_max_width":"1100","mobile_menu_design":"modern","nav_height":"54","nav_highlight_border":"3","page_title_fading":"1","pagination_video_slide":"0","related_posts_speed":"2500","submenu_slideout":"1","side_header_break_point":"1023","sidenav_behavior":"Hover","site_width":"1170px","slider_position":"below","slideshow_autoplay":"1","slideshow_speed":"7000","smooth_scrolling":"0","status_lightbox":"1","status_totop_mobile":"1","status_vimeo":"0","status_yt":"0","testimonials_speed":"4000","tfes_animation":"sides","tfes_autoplay":"1","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150","title_style_type":"single","title_margin_top":"0px","title_margin_bottom":"20px","typography_responsive":"1","typography_sensitivity":"0.60","typography_factor":"1.50","woocommerce_shop_page_columns":"","woocommerce_checkout_error":"Not all fields have been filled in correctly.","side_header_width":"320"};
+/* ]]> */
+</script>
+ 
+<script type="text/javascript" src="http://alsaraya.nl/wp-content/cache/minify/26cd7.js"></script>
+
+
+		
+		<!--[if lte IE 8]>
+			<script type="text/javascript" src="http://alsaraya.nl/wp-content/themes/Avada/assets/js/respond.js"></script>
+		<![endif]-->
+	</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 3469/28 objects using disk
+Page Caching using disk: enhanced 
+Minified using disk
+Database Caching 10/37 queries in 0.029 seconds using disk
+
+Served from: alsaraya.nl @ 2019-01-25 10:52:27 by W3 Total Cache
+-->
